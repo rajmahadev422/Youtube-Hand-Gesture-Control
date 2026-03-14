@@ -1,5 +1,5 @@
 
-# Hand Gesture Control
+# 👋Hand Gesture Control
 
 A real-time hand gesture recognition system that uses MediaPipe to detect hand gestures and control applications via keyboard simulation.
 
@@ -13,7 +13,9 @@ A real-time hand gesture recognition system that uses MediaPipe to detect hand g
 ## Installation
 
 1. Clone or download this project
+
 2. Install dependencies:
+
   ```bash
   pip install -r requirements.txt
   ```
@@ -27,16 +29,17 @@ A real-time hand gesture recognition system that uses MediaPipe to detect hand g
 ## Usage
 
 Run the application:
-```bash
-python main.py
-```
+
+  ```bash
+  python main.py
+  ```
 
 Press `q` to exit the application.
 
 ## Gesture Mappings
 
 | Gesture | Action |
-|---------|--------|
+| --------- | -------- |
 | Thumb Up | Press `l` (forward) |
 | Thumb Down | Press `j` (backward) |
 | Closed Fist | Press `k` (pause) |
