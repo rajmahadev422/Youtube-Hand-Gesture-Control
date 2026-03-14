@@ -37,8 +37,8 @@ Press `q` to exit the application.
 
 | Gesture | Action |
 |---------|--------|
-| Thumb Up | Press `l` |
-| Thumb Down | Press `j` |
+| Thumb Up | Press `l` (forward) |
+| Thumb Down | Press `j` (backward) |
 | Closed Fist | Press `k` (pause) |
 | Open Palm | Press `k` (resume) |
 
